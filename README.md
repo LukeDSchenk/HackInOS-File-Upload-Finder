@@ -7,4 +7,4 @@ In the CTF vulnhub machine known as "HackInOS," at some point you may come acros
 ## Why am I uploading this?
 Mainly just as a place to keep it for future reference, but also in hopes that someone else interested in CTF, or HTTP requests in python, or hashing in python, or really just anyone who is interested in this at all may find it. It is not a bad script to look at for anyone who has never tried doing `GET` requests in python before. 
 
-### Please let me know if you find this code interesting, useful, or if you learned something in any way. It might make my day!
+I hope you find this code useful or interesting. Thanks!
